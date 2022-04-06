@@ -1,0 +1,53 @@
+.contain {
+    background-color: rgb(5, 18, 92);
+    /* background-image: url('/images/alps1.png'); */
+    width: 100%;
+    height: 100%;
+    background-size: 500px;
+    padding-bottom: 10px;
+}
+
+.alps-title {
+    font-size: 60px;
+    padding-left: 190px;
+    padding-top: 30px;
+    color: white;
+    font-family: cursive;
+    color: rgba(240, 198, 198, 0.966);
+}
+
+.img-alps {
+    padding-top: 10px;
+    padding-left: 10px;
+    position: absolute;
+}
+
+.img2-alps {
+    padding-top: 150px;
+    padding-left: 130px;
+    position: absolute;
+}
+
+.paragraph {
+    position: relative;
+    color: white;
+    font-size: 25px;
+    /* padding-bottom: 900px; */
+    padding-left: 500px;
+    padding-right: 10px;
+}
+
+.price {
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.get {
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.list {
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

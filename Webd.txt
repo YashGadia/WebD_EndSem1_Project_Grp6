@@ -1,0 +1,8 @@
+GROUP 6: AWESOME VENTURES 
+
+I will just briefly write about the contribution the ones which we will present in the meet.
+
+Yash Gadia: Google Maps API integration, Navbar,Footer, Homepage, background videos.
+Utkarsh Mishra: Sign Up Page,Form Validation, Backend i.e. Connectiom with MongoDB, Gmail API, background videos.
+Aryan Wadhe: Blogs and Gallery Page, Hosting of website, images in Gallery section.
+Hamza Khan: About Us Page, icon of website, background image of Sign Up page.
